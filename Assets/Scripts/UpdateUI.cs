@@ -10,43 +10,7 @@ public class UpdateUI : MonoBehaviour
     void Start()
     {
 
-// Scoopula
-// StirringRod
-// Funnel
-// GraduatedCylinder
-// Goggles
-// MagneticStirBar
-// VialBase
-// WatchGlass
-// VolumetricFlaskGlass
-// TestTube
-// Pipette
-// BunsenBurner
-// Chair
-// ErenmyerFlask
-// Beaker (1)
-// CrucibleTongs
-// Centrifuge
-// RingStand
-
-// Scoopula
-// glass stir bar
-// Funnel
-// Graduated Cylinder
-// SAFETY GOGGLES
-// MAGNETIC STIR BAR
-// vial with cap
-// Watch Glass
-// Volumetric Flask
-// test tube
-// Pipet
-// BUNSEN BURNER
-// ***
-// erlenmeyer flask
-// Beaker
-// CRUCIBLE TONGS
-// CENTRIFUGE
-// Ring Stand
+        // Only way to add items to dictionary is to do it manually
 
         
         uiObjects.Add(GameObject.Find("Scoopula"), "Scoopula");
